@@ -47,7 +47,7 @@ export default function Home() {
             )}
             <ThemeToggle />
             <Button variant="outline" size="icon" asChild>
-              <a href="https://github.com/yourusername/mongodb-manager" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/akborana3/mongodb-manager" target="_blank" rel="noopener noreferrer">
                 <Github className="h-4 w-4" />
               </a>
             </Button>
